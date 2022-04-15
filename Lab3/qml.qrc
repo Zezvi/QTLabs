@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DialogForEdit.qml</file>
+        <file>DialogForAdd.qml</file>
+        <file>DialogForAnswer.qml</file>
+        <file>DelegateForMark.qml</file>
+    </qresource>
+</RCC>
