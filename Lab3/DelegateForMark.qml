@@ -57,14 +57,14 @@ Rectangle {
                 id: t1
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: "Название марки:"
-                color: "DarkBlue"
+                color: "White"
                 font.pointSize: 12
             }
             Text {
                 id: textName
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: nameOfMark
-                color: "DarkBlue"
+                color: "White"
                 font.pointSize: 18
                 font.bold: true
             }
@@ -75,37 +75,37 @@ Rectangle {
             anchors.verticalCenter: parent.verticalCenter
             Text {
                 text: "Страна:"
-                color: "Magenta"
+                color: "White"
                 font.pointSize: 10
             }
             Text {
                 id: textCountry
                 text: countryOfMark
-                color: "DarkBlue"
+                color: "White"
                 font.pointSize: 12
                 font.bold: true
             }
             Text {
                 text: "Year:"
-                color: "DarkBlue"
+                color: "White"
                 font.pointSize: 10
             }
             Text {
                 id: textYear
-                color: "DarkBlue"
+                color: "White"
                 text: yearOfMark
                 font.pointSize: 12
                 font.bold: true
             }
             Text {
                 text: "Тираж:"
-                color: "DarkBlue"
+                color: "White"
                 font.pointSize: 10
             }
             Text {
                 id: textCopies
                 text: copiesOfMark
-                color: "DarkBlue"
+                color: "White"
                 font.pointSize: 12
                 font.bold: true
             }

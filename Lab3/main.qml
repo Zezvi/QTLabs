@@ -7,7 +7,7 @@ Window {
     visible: true
     width: 800
     height: 550
-    title: qsTr("Справочник филантрописта")
+    title: qsTr("Справочник филателиста")
 
     // объявляется системная палитра
     SystemPalette {
@@ -21,7 +21,7 @@ Window {
         anchors.right: parent.right
         anchors.bottom: butAdd.top
         anchors.bottomMargin: 8
-        border.color: "SteelBlue"
+        border.color: "DarkGrey"
 
 
     ScrollView {
