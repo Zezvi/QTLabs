@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HandbookDelegate.qml</file>
+        <file>HandbookView.qml</file>
+    </qresource>
+</RCC>
